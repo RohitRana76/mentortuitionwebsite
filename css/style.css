@@ -1,0 +1,78 @@
+.nav-wrapper{
+    background: #C04848;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #480048, #C04848);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #480048, #C04848); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+body{
+    background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0f9b0f, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+h3{
+    font-size: xx-large;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+
+.large .material-icons{
+    color:  #C04848;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #480048, #C04848);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #480048, #C04848); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.carousel-item{
+    color:  #C04848;  /* fallback for old browsers */
+    background: #FFE000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #799F0C, #FFE000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #799F0C, #FFE000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+h4{
+    font-size: 34px;
+    font-weight: 500;
+    color: #000000;
+    font-family: monospace;
+    text-align: center;
+}
+
+p{
+    font-size: 17px;
+    font-weight: normal;
+    font-family: sans-serif;
+    text-align: center;
+    color: aqua;
+}
+
+h2{
+    font-size: xx-large;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:antiquewhite;
+    text-align: center;
+}
+
+h1{
+    font-size: 56px;
+    font-family: serif;
+    font-weight: 700;
+    color: rgb(188, 238, 9);
+    text-align: center;
+}
+
+.page-footer{
+    background: #ff0084;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #33001b, #ff0084);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #33001b, #ff0084); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    ;
+}
+
+.pin-code{
+    color: white;
+}
